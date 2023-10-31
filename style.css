@@ -1,5 +1,5 @@
 body { 
-    background-color: yellow; 
+    background-color: beige ; 
 }
 
 #titulo {
@@ -8,7 +8,7 @@ body {
 
 .texto {
     text-align: center;
-    font-size: 35px; 
+    font-size: 30px; 
     color:rgb(197, 60, 156);
 }
 
